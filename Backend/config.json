@@ -1,0 +1,12 @@
+﻿{
+    "MONGODB_URI": "mongodb://localhost/vehicle",
+    "SECRET": "secret",
+    "ROLES": {
+        "operator": 0
+    },
+    "VEHICLE_TYPE": {
+        "car": 0,
+        "van": 1,
+        "bus": 2
+    }
+}
